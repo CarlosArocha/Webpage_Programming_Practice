@@ -1,16 +1,16 @@
 body {
  margin-left:25px;
- margin-right:25px; 
+ margin-right:25px;
 }
 
 h1 {
- text-transform:uppercase; 
+ text-transform:uppercase;
  margin-top: 20px;
  margin-bottom: 20px;
 }
 
 img {
- width:50%; 
+ width:50%;
 }
 
 a#main-link {
@@ -31,13 +31,13 @@ p.bold-paragraph {
 }
 
 span.blue_text {
-	color:blue;  
+	color:blue;
 }
 
 ul {
- display:none; 
+ display:none;
 }
 
 td {
- border:solid black 1px; 
+ border:solid black 1px;
 }
